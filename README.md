@@ -14,6 +14,12 @@ To start a web server for the application, run:
 
     lein up
 
+## ToDo
+Clojure libaries to use to generate images rhizome.viz and graphviz
+
+Output of the image functions is
+    java.awt.image.BufferedImage
+
 ## License
 
 Copyright © 2015 FIXME
